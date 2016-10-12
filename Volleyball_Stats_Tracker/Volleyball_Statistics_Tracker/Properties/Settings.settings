@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Volleyball_Statistics_Tracker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BallAnchor" Type="System.Windows.Forms.AnchorStyles" Scope="User">
+      <Value Profile="(Default)">Top, Bottom, Left, Right</Value>
+    </Setting>
+    <Setting Name="TopBottomLeftRight" Type="System.Windows.Forms.AnchorStyles" Scope="Application">
+      <Value Profile="(Default)">Top, Bottom, Left, Right</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
